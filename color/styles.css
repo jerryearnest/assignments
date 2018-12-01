@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+.pink {
+    height: 120px;
+    width: 880px;
+    background-color: pink;
+
+
+}
+.magenta{
+    height: 120px;
+    width: 80px;
+    background-color: magenta;
+    display: inline-block;
+    margin: 2px;
+}
+.lighblue{
+    height: 120px;
+    width: 160;
+    background-color: lightblue;
+    display: inline-block;
+    margin: 2px;
+
+}
+.green{
+    height: 120px;
+    width: 640px;
+    background-color: green;
+    display: inline-block;
+    margin: 2px;
+
+}
+.orange{
+    height: 120px;
+    width: 240px;
+    background-color: orange;
+    display: inline-block;
+    margin: 2px;
+    
+}
