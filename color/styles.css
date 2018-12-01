@@ -2,41 +2,52 @@
     box-sizing: border-box; 
     font-size: 0px;
 }
+body {
+    margin: auto;
+    max-width: 880px;
+    margin-top: 100;
+}
 .pink {
+    margin: 10px;
     height: 120px;
-    width: 880px;
+    width: 860px;
     background-color: pink;
 
 
 }
 .magenta{
+    display: inline-block;
     height: 120px;
-    width: 80px;
+    margin: 10px;
+    width: 200px;
     background-color: magenta;
-    display: inline-block;
-    margin: 2px;
 }
-.lighblue{
-    height: 120px;
-    width: 160;
-    background-color: lightblue;
+.lightblue{
     display: inline-block;
-    margin: 2px;
+    height: 120px;
+    margin: 10px;
+    width: 420;
+    background-color: lightblue;
+    
+    
 
 }
 .green{
-    height: 120px;
-    width: 640px;
-    background-color: green;
     display: inline-block;
-    margin: 2px;
+    height: 120px;
+    margin: 10px;
+    width: 630px;
+    background-color: green;
+    
 
 }
 .orange{
-    height: 120px;
-    width: 240px;
-    background-color: orange;
     display: inline-block;
-    margin: 2px;
+    height: 120px;
+    margin: 10px;
+    width: 210px;
+    background-color: orange;
+    
+    
     
 }
