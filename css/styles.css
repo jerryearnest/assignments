@@ -1,0 +1,39 @@
+*{
+    margin:-2px;
+    padding: 0;
+}
+
+.flag{
+    background-color: navy;
+    width: 400px;
+    height:250px;
+}
+.france-flag{
+    width: 33.333333333%;
+    height:250px;
+    display:inline-block;
+}
+#flag-middle{
+    background-color: white;
+    height:250px;
+}
+#flag-right{
+    background-color: red;
+    height: 250px;
+}
+#gflag-top{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    
+}
+#gflag-mid{
+    background-color: red;
+    height: 100px;
+    width: 400px;
+}
+#gflag-bottom{
+    background-color: yellow;
+    height: 100px;
+    width: 400px;
+}
